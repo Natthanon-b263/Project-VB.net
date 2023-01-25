@@ -1,0 +1,16 @@
+C:\Natthanon\ณัฐนนท์ บรรเทา\bin\Debug\ณัฐนนท์ บรรเทา.exe
+C:\Natthanon\ณัฐนนท์ บรรเทา\bin\Debug\ณัฐนนท์ บรรเทา.pdb
+C:\Natthanon\ณัฐนนท์ บรรเทา\bin\Debug\ณัฐนนท์ บรรเทา.xml
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์_บรรเทา.Art.resources
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์_บรรเทา.Calculate.resources
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์_บรรเทา.Foods.resources
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์_บรรเทา.History.resources
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์_บรรเทา.Resources.resources
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์_บรรเทา.Sport.resources
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์_บรรเทา.TabControls.resources
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์_บรรเทา.Trandition.resources
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์_บรรเทา.Travel.resources
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์ บรรเทา.vbproj.GenerateResource.Cache
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์ บรรเทา.exe
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์ บรรเทา.xml
+C:\Natthanon\ณัฐนนท์ บรรเทา\obj\x86\Debug\ณัฐนนท์ บรรเทา.pdb
