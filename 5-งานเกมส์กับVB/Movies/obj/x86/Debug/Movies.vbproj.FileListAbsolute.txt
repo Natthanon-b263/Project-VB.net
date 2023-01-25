@@ -1,0 +1,10 @@
+C:\Natthanon\Movies\bin\Debug\Movies.exe
+C:\Natthanon\Movies\bin\Debug\Movies.pdb
+C:\Natthanon\Movies\bin\Debug\Movies.xml
+C:\Natthanon\Movies\obj\x86\Debug\Movies.Resources.resources
+C:\Natthanon\Movies\obj\x86\Debug\Movies.vbproj.GenerateResource.Cache
+C:\Natthanon\Movies\obj\x86\Debug\Movies.exe
+C:\Natthanon\Movies\obj\x86\Debug\Movies.xml
+C:\Natthanon\Movies\obj\x86\Debug\Movies.pdb
+C:\Natthanon\Movies\obj\x86\Debug\Movies.Movies.resources
+C:\Natthanon\Movies\obj\x86\Debug\Movies.Details.resources
