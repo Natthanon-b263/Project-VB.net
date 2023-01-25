@@ -1,0 +1,9 @@
+C:\Natthanon\Grade\obj\x86\Debug\Grade.Grade.resources
+C:\Natthanon\Grade\obj\x86\Debug\Grade.Resources.resources
+C:\Natthanon\Grade\obj\x86\Debug\Grade.vbproj.GenerateResource.Cache
+C:\Natthanon\Grade\bin\Debug\Grade.exe
+C:\Natthanon\Grade\bin\Debug\Grade.pdb
+C:\Natthanon\Grade\bin\Debug\Grade.xml
+C:\Natthanon\Grade\obj\x86\Debug\Grade.exe
+C:\Natthanon\Grade\obj\x86\Debug\Grade.xml
+C:\Natthanon\Grade\obj\x86\Debug\Grade.pdb
