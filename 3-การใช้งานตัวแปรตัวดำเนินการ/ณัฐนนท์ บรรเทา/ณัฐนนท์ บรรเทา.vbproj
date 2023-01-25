@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5E20051F-DB0F-4EF3-ABB8-4CC861ED87A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ณัฐนนท์_บรรเทา.My.MyApplication</StartupObject>
+    <RootNamespace>ณัฐนนท์_บรรเทา</RootNamespace>
+    <AssemblyName>ณัฐนนท์ บรรเทา</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ณัฐนนท์ บรรเทา.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ณัฐนนท์ บรรเทา.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Art.Designer.vb">
+      <DependentUpon>Art.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Art.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculate.Designer.vb">
+      <DependentUpon>Calculate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Calculate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Foods.Designer.vb">
+      <DependentUpon>Foods.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Foods.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataType.Designer.vb">
+      <DependentUpon>DataType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History.Designer.vb">
+      <DependentUpon>History.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OperatorsControls.Designer.vb">
+      <DependentUpon>OperatorsControls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OperatorsControls.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sport.Designer.vb">
+      <DependentUpon>Sport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabControls.Designer.vb">
+      <DependentUpon>TabControls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TabControls.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trandition.Designer.vb">
+      <DependentUpon>Trandition.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Trandition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Travel.Designer.vb">
+      <DependentUpon>Travel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Travel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Art.resx">
+      <DependentUpon>Art.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculate.resx">
+      <DependentUpon>Calculate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Foods.resx">
+      <DependentUpon>Foods.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataType.resx">
+      <DependentUpon>DataType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History.resx">
+      <DependentUpon>History.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperatorsControls.resx">
+      <DependentUpon>OperatorsControls.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sport.resx">
+      <DependentUpon>Sport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabControls.resx">
+      <DependentUpon>TabControls.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trandition.resx">
+      <DependentUpon>Trandition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Travel.resx">
+      <DependentUpon>Travel.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Food.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Art.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sport.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trandition.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Food1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Food2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Food3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Food4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Art1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Art2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Art3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Art4.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
