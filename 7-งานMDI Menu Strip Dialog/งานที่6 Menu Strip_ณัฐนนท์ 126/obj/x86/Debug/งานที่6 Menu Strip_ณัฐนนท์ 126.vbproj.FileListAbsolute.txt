@@ -1,0 +1,16 @@
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\Interop.WMPLib.dll
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\งานที่6 Menu Strip_ณัฐนนท์ 126.vbproj.ResolveComReference.cache
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\bin\Debug\งานที่6 Menu Strip_ณัฐนนท์ 126.exe
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\bin\Debug\งานที่6 Menu Strip_ณัฐนนท์ 126.pdb
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\bin\Debug\งานที่6 Menu Strip_ณัฐนนท์ 126.xml
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\bin\Debug\Interop.WMPLib.dll
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\bin\Debug\AxInterop.WMPLib.dll
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\งานที่6_Menu_Strip_ณัฐนนท์_126.Dialog.resources
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\งานที่6_Menu_Strip_ณัฐนนท์_126.Main.resources
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\งานที่6_Menu_Strip_ณัฐนนท์_126.Resources.resources
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\งานที่6_Menu_Strip_ณัฐนนท์_126.Songs.resources
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\งานที่6 Menu Strip_ณัฐนนท์ 126.vbproj.GenerateResource.Cache
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\งานที่6 Menu Strip_ณัฐนนท์ 126.exe
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\งานที่6 Menu Strip_ณัฐนนท์ 126.xml
+C:\Natthanon\งานที่6 Menu Strip_ณัฐนนท์ 126\obj\x86\Debug\งานที่6 Menu Strip_ณัฐนนท์ 126.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "งานที่6 Menu Strip_ณัฐนนท์ 126", "งานที่6 Menu Strip_ณัฐนนท์ 126.vbproj", "{AF064CF4-F016-443C-B302-31BADF0827B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF064CF4-F016-443C-B302-31BADF0827B2}.Debug|x86.ActiveCfg = Debug|x86
+		{AF064CF4-F016-443C-B302-31BADF0827B2}.Debug|x86.Build.0 = Debug|x86
+		{AF064CF4-F016-443C-B302-31BADF0827B2}.Release|x86.ActiveCfg = Release|x86
+		{AF064CF4-F016-443C-B302-31BADF0827B2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
